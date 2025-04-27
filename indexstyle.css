@@ -71,6 +71,9 @@ footer {
   height: auto;
   opacity: 1;
 }
+._logo{
+  height:10px;
+}
 
 /*.container {
     display: flex;
